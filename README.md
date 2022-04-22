@@ -1,8 +1,8 @@
 # Consuming dmdb api with react using Girl Coding classes on youtube
-[Youtube channel] (https://www.youtube.com/c/GirlCoding)
+<https://www.youtube.com/c/GirlCoding>
 
 ## Print: 
-![image]()
+![image](https://raw.githubusercontent.com/GabhPadilha02/consuming-tmdb-api-with-react/main/prints/localhost_3000_%20(1).png)
 
 ## Getting Started with Create React App
 
