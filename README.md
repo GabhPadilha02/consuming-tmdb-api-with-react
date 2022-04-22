@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Consuming dmdb api with react using Girl Coding classes on youtube
+[Youtube channel] (https://www.youtube.com/c/GirlCoding)
+
+## Print: 
+![image]()
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
