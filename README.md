@@ -1,5 +1,5 @@
 # Consuming dmdb api with react using Girl Coding classes on youtube
-[Youtube channel] (https://www.youtube.com/c/GirlCoding)
+<https://www.youtube.com/c/GirlCoding>
 
 ## Print: 
 ![image]()
